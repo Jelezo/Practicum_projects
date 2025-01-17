@@ -1,3 +1,7 @@
+*примечание:* GitHub не рендерит динамические графики библиотеки `plotly` используемой в данном проекте.   
+Поэтому соответсвующий проект можно просмотреть по ссылке ниже на nbviewer.org    
+[проект](https://nbviewer.org/github/Jelezo/Practicum_projects/blob/5f1623e9415bc226fb6ea502b030af92eeaa3fa4/price_flat_peterburg/price_flat_peterburg.ipynb)
+
 # Цели
 Исследовать обьявления о продаже квартир
 
