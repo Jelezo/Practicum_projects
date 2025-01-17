@@ -1,6 +1,6 @@
 *примечание: GitHub не рендерит динамические графики библиотеки `plotly` используемой в данном проекте.   
 Поэтому данный проект можно просмотреть по ссылке ниже*    
-[проект]()
+[проект](https://nbviewer.org/github/Jelezo/Practicum_projects/blob/676b775217af0a47989afd782b465777c3e80438/procrastinate_pro_plus/analisys_procractinate_pro_plus.ipynb)
 
 # Цели
 разобраться в причинах убытков и помочь компании выйти в плюс
