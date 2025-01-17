@@ -1,6 +1,6 @@
 *примечание: GitHub не рендерит динамические графики библиотеки `plotly` используемой в данном проекте.   
 Поэтому данный проект можно просмотреть по ссылке ниже*    
-[проект]()
+[проект](https://nbviewer.org/github/Jelezo/Practicum_projects/blob/ea1569c74c8301b27e790f67c2a306ca71b9d05a/prioritet_hypotesys_ab_test/prioritet_hypotesys_and_ab_test.ipynb)
 
 
 # Цель 
