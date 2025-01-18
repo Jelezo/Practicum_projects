@@ -1,3 +1,7 @@
+*примечание: GitHub не рендерит динамические графики библиотеки `plotly` используемой в данном проекте.   
+Поэтому данный проект можно просмотреть по ссылке ниже*    
+[проект](https://nbviewer.org/github/Jelezo/Practicum_projects/blob/663c04041ac38e1efdd4afecebf7b2a2bd8621cc/catering_establishments_moscow/catering_establishments_moscow.ipynb)
+
 # Цель 
 дать рекомендации для открытия кофейни в Москве 
 
