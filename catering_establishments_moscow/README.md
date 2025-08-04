@@ -1,4 +1,4 @@
-*Для просмотра проекта с прогруженными графиками* [нажмите сюда](https://nbviewer.org/github/Jelezo/Practicum_projects/blob/main/catering_establishments_moscow/catering_establishments_moscow.ipynb)
+*Для просмотра проекта с прогруженными графиками* [нажмите сюда](https://nbviewer.org/github/Jelezo/Practicum_projects/blob/bd03db2d1e5cb6268b5da5b59fb108df8c84545a/catering_establishments_moscow/catering_establishments_moscow.ipynb)
 
 
 # Цель 
@@ -108,5 +108,6 @@
 Кофейню можно разместить Северо-Восточном районе .
 Стоимость чашки капучино рекомендуется взять около 170 рублей - это расценка ниже  предлагаемом районе и равна среднему значению по городу, чтобы привлечь клиентов. 
 В Северо-Восточномм районе самая низкая оценка кофеен , следовательно можно смело конкурировать среди кофеен данного района.
+
 
 
