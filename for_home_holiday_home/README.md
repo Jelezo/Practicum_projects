@@ -1,6 +1,6 @@
 *примечание: GitHub не рендерит динамические графики библиотеки `plotly` используемой в данном проекте.   
 Поэтому данный проект можно просмотреть по ссылке ниже*    
-[проект](https://nbviewer.org/github/Jelezo/Practicum_projects/blob/c43b3cef007d5ee21c421e46b6fe79a6780ef672/for_home_holiday_home/for_home_and_holiday_home.ipynb)
+[проект](https://nbviewer.org/github/Jelezo/Practicum_projects/blob/189b310a51eead756e3f075c3cffce866d10eb9d/for_home_holiday_home/for_home_and_holiday_home.ipynb)
 
 # Цели
 1. разработать рекомендации: каким клиентам и когда рассылать рекламные предложения о каких-либо категориях товаров   
@@ -90,3 +90,4 @@
 Октябрь - хозтовары, рассада, фурнитура   
 Ноябрь - рассада, хозтовары, товары для кухни     
 Декабрь - хозтовары и рассада + товары для кухни        
+
