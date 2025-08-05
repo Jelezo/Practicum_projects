@@ -1,6 +1,6 @@
 *примечание: GitHub не рендерит динамические графики библиотеки `plotly` используемой в данном проекте.   
 Поэтому данный проект можно просмотреть по ссылке ниже*    
-[проект](https://nbviewer.org/github/Jelezo/Practicum_projects/blob/5f1623e9415bc226fb6ea502b030af92eeaa3fa4/price_flat_peterburg/price_flat_peterburg.ipynb)
+[проект](https://nbviewer.org/github/Jelezo/Practicum_projects/blob/bf3d421407a2ae37e01b9bf9a8b62321554931d0/price_flat_peterburg/price_flat_peterburg.ipynb)
 
 # Цели
 Исследовать обьявления о продаже квартир
@@ -50,3 +50,4 @@
  в Петербурге - около 115 000 руб,   
 минимальная 
 в Выборге  - около 59 000 руб, что почти в 2 раза дешевле.
+
