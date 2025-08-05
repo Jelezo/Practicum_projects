@@ -1,6 +1,6 @@
 *примечание: GitHub не рендерит динамические графики библиотеки `plotly` используемой в данном проекте.   
 Поэтому данный проект можно просмотреть по ссылке ниже*    
-[проект](https://nbviewer.org/github/Jelezo/Practicum_projects/blob/main/procrastinate_pro_plus/analisys_procractinate_pro_plus.ipynb)
+[проект](https://nbviewer.org/github/Jelezo/Practicum_projects/blob/c7bf5d1b1dbf7a762da98784e077e3a66b64993a/procrastinate_pro_plus/analisys_procractinate_pro_plus.ipynb)
 
 # Цели
 разобраться в причинах убытков и помочь компании выйти в плюс
@@ -114,4 +114,5 @@
  - снизить расходы на привлечение пользователей Mac, iPhone
  - найти способы удержать пользователей приходящих через FaceBoom.
  - привлечь больше пользователей через RocketSuperAds (для США)
+
 
