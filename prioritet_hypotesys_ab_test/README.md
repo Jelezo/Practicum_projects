@@ -1,6 +1,6 @@
-*примечание: GitHub не рендерит динамические графики библиотеки `plotly` используемой в данном проекте.   
+*примечание: GitHub не рендерит динамические графики в данном проекте.   
 Поэтому данный проект можно просмотреть по ссылке ниже*    
-[проект](https://nbviewer.org/github/Jelezo/Practicum_projects/blob/ea1569c74c8301b27e790f67c2a306ca71b9d05a/prioritet_hypotesys_ab_test/prioritet_hypotesys_and_ab_test.ipynb)
+[проект](https://nbviewer.org/github/Jelezo/Practicum_projects/blob/ba1b063e2400cbcb96f02252f7811d5bfd7ff474/prioritet_hypotesys_ab_test/prioritet_hypotesys_and_ab_test.ipynb)
 
 
 # Цель 
@@ -57,3 +57,4 @@
 
 Т.к. ср. кол-во заказов увеличилось при отсутствии знаяимых изменений по ср. чеку , следовательно стали покупать чаще - выручка увеличилась. 
 Поэтому А/В тест  следует завершить и признать для группы В успешным, т.к. поставленная цель по  увеличения выручки выполняется.
+
